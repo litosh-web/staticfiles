@@ -1,4 +1,5 @@
 ## StaticFiles
+###MODx Revolution 2.x extra
 
 Help you to save a chunk, snippet or plugin to static file for work from IDE.
 
